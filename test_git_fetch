@@ -1,1 +1,3 @@
 test for difference between git fetch and git pull
+
+it does not appear until git merge
